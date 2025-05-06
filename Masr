@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مواقع 124 مصر قرعة</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            direction: rtl;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        .link-container {
+            margin-top: 30px;
+        }
+        .link-container a {
+            display: block;
+            margin: 15px;
+            padding: 12px 20px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+        }
+        .link-container a:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>مواقع 124 مصر قرعة</h1>
+
+    <div class="link-container">
+        <a href="https://maps.app.goo.gl/CsxZTMLTduF6knDKA" target="_blank">مكتب 124 مصر قرعة</a>
+        <a href="https://maps.app.goo.gl/iGDnuZSoXAP47J3D6" target="_blank">موقع مني مكتب 124 مصر قرعة</a>
+        <a href="https://maps.app.goo.gl/kksT1CC3qGGYfKg48" target="_blank">موقع عرفة 124 مصر قرعة</a>
+        <a href="https://maps.app.goo.gl/zEiF53teCGTsThkY6" target="_blank">فندق ميسان المقام</a>
+        <a href="https://maps.app.goo.gl/dBdtUPmnaMYhY8Hc8" target="_blank">فندق كيان الراية</a>
+    </div>
+
+</body>
+</html>
